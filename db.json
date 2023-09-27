@@ -1,0 +1,40 @@
+{
+
+ "posts": [
+    {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+ }
+ ],
+ "comments": [
+    {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }
+ ],
+    "profile": {
+    "name": "typicode"
+    },
+ "data": [
+    {
+        "id": 1,
+        "heading": "first question",
+        "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti tempore eius ex ipsum eum, odio, corporis quisquam optio, labore odit error autem aliquid distinctio fuga consequuntur a. Odit, minima doloribus."
+    },
+    {
+        "id": 2,
+        "heading": "second question",
+        "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti tempore eius ex ipsum eum, odio, corporis quisquam optio, labore odit error autem aliquid distinctio fuga consequuntur a. Odit, minima doloribus."
+    },{
+        "id": 3,
+        "heading": "third question",
+        "content": "Lorem ipsum, dolor sit amet consectetur "
+    },{
+        "id": 4,
+        "heading": "fourth question",
+        "content": "it amet consectetur adipis"
+    }
+ ]
+}

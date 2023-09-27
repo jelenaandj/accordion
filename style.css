@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.content-wrapper{
+    margin: 0 auto;
+    font-size: 17px;
+    width: 60%;
+}
+
+.heading{
+    background-color: rgb(59, 168, 94);
+    font-size: 20px;
+    padding: 20px;
+    border: 1px solid black;
+
+}
+.heading:hover{
+    background-color: rgb(59, 168, 94,.6);
+    transition: all 0.5s ease-in-out;
+
+
+}
+.contentWrapper{
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+    clear: both;
+
+}
+.arrow{
+    float: right;
+}
